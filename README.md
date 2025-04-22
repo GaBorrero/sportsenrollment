@@ -6,7 +6,7 @@
 
 # You can also watch this report by clicking on https://lookerstudio.google.com/reporting/a6b7f759-25bd-49a5-8368-7681b5fefb52
 
-![image](https://github.com/user-attachments/assets/398695bb-a05e-4d6a-bad2-67243cffd486)
+![image](https://github.com/user-attachments/assets/22a9e280-f3c6-45e3-8ef0-b7f07457ce80)
 
 #If you want to try it scan QR code below. Thank you!
 
