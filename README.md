@@ -4,7 +4,7 @@
 
 # You can make a quick search by child/young full name, parent full name or registered sport name using the search tool located at the top of the report./Puedes hacer una búsqueda rápida por nonmbre del niño/jóven, nombre del padre/cuidador o nombre del deporte registrado usando la herramienta de búsqueda ubicada en la parte de arriba del reporte.
 
-# You can also watch this report by clicking on:/También puede ver este reporte presionando en:
+# You can also watch this report by clicking on: https://lookerstudio.google.com/s/tucXjltOrIE/También puede ver este reporte presionando en: https://lookerstudio.google.com/s/tucXjltOrIE
 
 ![image](https://github.com/user-attachments/assets/22a9e280-f3c6-45e3-8ef0-b7f07457ce80)
 
