@@ -12,4 +12,5 @@
 
 ![image](https://github.com/user-attachments/assets/6153d9e6-4c45-4170-a7aa-a3bad2f4ffbf)
 
-# View the Power BI dashboard for this report by clicking on: https://soysena-my.sharepoint.com/:u:/g/personal/gborrero3_soy_sena_edu_co/ESeEFRk-cMtHtjdKGe_oJoUBP84DWgradKH0zq6UddTvYg
+
+# View the Power BI dashboard for this report by clicking on/Mira el panel Power BI para este reporte presionando en: https://soysena-my.sharepoint.com/:u:/g/personal/gborrero3_soy_sena_edu_co/ESeEFRk-cMtHtjdKGe_oJoUBP84DWgradKH0zq6UddTvYg
