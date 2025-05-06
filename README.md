@@ -4,7 +4,7 @@
 
 # You can make a quick search by child/young full name, parent full name or registered sport name using the search tool located at the top of the report./Puedes hacer una búsqueda rápida por nombre del niño/jóven, nombre del padre/cuidador o nombre del deporte registrado usando la herramienta de búsqueda ubicada en la parte de arriba del reporte.
 
-# You can also watch this report by clicking on: https://lookerstudio.google.com/s/tucXjltOrIE /También puede ver este reporte presionando en: https://lookerstudio.google.com/s/tucXjltOrIE
+# You can also watch this report by clicking on:/También puede ver este reporte presionando en: https://lookerstudio.google.com/s/tucXjltOrIE
 
 ![image](https://github.com/user-attachments/assets/22a9e280-f3c6-45e3-8ef0-b7f07457ce80)
 
@@ -12,5 +12,6 @@
 
 ![image](https://github.com/user-attachments/assets/6153d9e6-4c45-4170-a7aa-a3bad2f4ffbf)
 
-
 # View the Power BI dashboard for this report by clicking on/Mira el panel Power BI para este reporte presionando en: https://soysena-my.sharepoint.com/:u:/g/personal/gborrero3_soy_sena_edu_co/ESeEFRk-cMtHtjdKGe_oJoUBP84DWgradKH0zq6UddTvYg
+
+![image](https://github.com/user-attachments/assets/130c805f-3c77-4244-b252-6c6862955962)
