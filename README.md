@@ -8,7 +8,7 @@ You can also watch this report by clicking on: / También puede ver este reporte
 
 ![image](https://github.com/user-attachments/assets/22a9e280-f3c6-45e3-8ef0-b7f07457ce80)
 
-If you want to try it scan QR code below. Thank you! / Si quiere probarlo escanée el código QR que está abajo. Gracias!
+If you want to try the **Google Forms** scan QR code below. Thank you! / Si quieres probar el **Formulario de Google** escanéa el código QR que está abajo. Gracias!
 
 ![image](https://github.com/user-attachments/assets/6153d9e6-4c45-4170-a7aa-a3bad2f4ffbf)
 
