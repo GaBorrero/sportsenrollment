@@ -13,3 +13,6 @@ If you want to try it scan QR code below. Thank you! / Si quiere probarlo escan√
 ![image](https://github.com/user-attachments/assets/6153d9e6-4c45-4170-a7aa-a3bad2f4ffbf)
 
 If you have an existing SENA account view the Power BI dashboard for this report by clicking on: / Si tiene una cuenta activa del SENA, mira el panel Power BI para este reporte presionando en: https://soysena.sharepoint.com/:u:/s/DataAnalyticsProjects/ERqHoM45p4JLv_XNdFqqxoMB8Q7gUW5TvATvf6Pc6LqeKg?e=hKxjf1
+
+![image](https://github.com/user-attachments/assets/a2ead938-4d11-4ba7-a6de-364fac7d2f5c)
+
