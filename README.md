@@ -14,4 +14,4 @@ If you want to try it scan QR code below. Thank you! / Si quiere probarlo escan√
 
 View the Power BI dashboard for this report by clicking on: / Mira el panel Power BI para este reporte presionando en: https://soysena-my.sharepoint.com/:u:/g/personal/gborrero3_soy_sena_edu_co/ESeEFRk-cMtHtjdKGe_oJoUBP84DWgradKH0zq6UddTvYg
 
-![image](https://github.com/user-attachments/assets/130c805f-3c77-4244-b252-6c6862955962)
+![image](https://github.com/user-attachments/assets/68cd068d-6896-405f-9789-3a696a4e5acf)
